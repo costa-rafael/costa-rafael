@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<br>
 
 <table border="0" width="100%">
 <tr>
@@ -57,6 +52,3 @@ I am interested in applying what I learn to real systems, especially in building
 </td>
 </tr>
 </table>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
