@@ -1,24 +1,21 @@
+<div align="center" style="margin-bottom: 10px;">
+  <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Rafael</span>
+  <a href="https://linkedin.com/in/rlopescosta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" style="vertical-align:middle; margin-left: 10px; border-radius: 5px;"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <span style="font-size: 1.5em; font-weight: bold;">Hi, I'm Rafael!</span>
-  <br>
-  <span style="font-size: 1em; font-weight: normal;">Welcome to my page :)</span>
-</div>
+<h3 align="center">Analyzing packets, training models & breaking things.</h3>
 
 <p align="center">
-  <b>Cybersecurity Student at Iscte</b>
+  🎓 <b>Cybersecurity Student at ISCTE - Sintra</b>
   <br>
   My focus is on the intersection of <b>Network Infrastructure</b> and <b>Artificial Intelligence</b>.
   Currently exploring how to secure systems while teaching machines to think.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rlopescosta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" style="border-radius: 5px;"/>
-  </a>
 </p>
 
 <div align="center">
@@ -51,9 +48,9 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
   </a>
-  
-  <br> <img height="10" width="0"/> <br>
+</p>
 
+<p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   </a>
@@ -78,3 +75,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
