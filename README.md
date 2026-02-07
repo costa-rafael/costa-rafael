@@ -4,10 +4,6 @@
 
 <h3 align="center">Hi, I'm Rafael!</h3>
 
-<p align="center">Welcome to my page :)</p>
-
-<br>
-
 <p align="center">
   <b>Cybersecurity Student at Iscte</b>
   <br>
