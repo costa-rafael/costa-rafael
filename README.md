@@ -14,7 +14,7 @@
   My focus is on the intersection of <b>Network Infrastructure</b> and <b>Artificial Intelligence</b>.
   Currently exploring how to secure systems while teaching machines to think.
 </p>
-
+<p align="center">
 <a href="https://linkedin.com/in/rlopescosta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" style="vertical-align:middle; margin-left: 10px; border-radius: 5px;"/>
   </a>
