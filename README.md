@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
 <h3 align="center">Hi, I'm Rafael!</h3>
 
 <p align="center">Welcome to my page :)</p>
