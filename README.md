@@ -14,7 +14,11 @@ I am a cybersecurity student at <b>Iscte</b>, focused on the convergence of <b>N
 <br><br>
 I am interested in applying what I learn to real systems, especially in building resilient architectures and exploring how Machine Learning can help with proactive threat detection. My goal is to help create systems that are secure by design and increasingly intelligent in how they defend themselves.
 </p>
-<br>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <h3 align="left">Technical Arsenal</h3>
 
