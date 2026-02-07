@@ -2,11 +2,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <span style="font-size: 1.5em; font-weight: bold;">Hi, I'm Rafael!</span>
-  <br>
-  <span style="font-size: 1em; font-weight: normal;">Welcome to my page :)</span>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
+
+<h3 align="center">Hi, I'm Rafael!</h3>
+
+<p align="center">Welcome to my page :)</p>
 
 <br>
 
