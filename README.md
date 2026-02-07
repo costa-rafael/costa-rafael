@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 10px;">
-  <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Rafael! Welcome to my page :) </span>
+  <span style="font-size: 5em; font-weight: bold;">Hi, I'm Rafael! Welcome to my page :) </span>
 </div>
 
 <div align="center">
