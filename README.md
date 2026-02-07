@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<h3 align="center">Hey! I'm Rafael</h3>
+<h3 align="center">Hey! I'm Rafael!</h3>
 
 <p align="center">
-  <b>Cybersecurity Student at Iscte</b>
+  I'm a <b>Cybersecurity</b> student at <b>Iscte</b>
   <br>
   My focus is on the intersection of Network Infrastructure and Artificial Intelligence. Currently exploring how to secure systems while teaching machines to think.
 </p>
