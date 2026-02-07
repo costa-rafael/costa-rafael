@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<h3 align="center">Hi, I'm Rafael! Welcome to my page :).</h3>
+<h3 align="center">Hi, I'm Rafael! <br>Welcome to my page :).</h3>
 
 <p align="center">
  <b>Cybersecurity Student at Iscte</b>
