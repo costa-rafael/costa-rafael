@@ -1,8 +1,5 @@
 <div align="center" style="margin-bottom: 10px;">
   <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Rafael! Welcome to my page :) </span>
-  <a href="https://linkedin.com/in/rlopescosta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" style="vertical-align:middle; margin-left: 10px; border-radius: 5px;"/>
-  </a>
 </div>
 
 <div align="center">
@@ -17,6 +14,10 @@
   My focus is on the intersection of <b>Network Infrastructure</b> and <b>Artificial Intelligence</b>.
   Currently exploring how to secure systems while teaching machines to think.
 </p>
+
+<a href="https://linkedin.com/in/rlopescosta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" style="vertical-align:middle; margin-left: 10px; border-radius: 5px;"/>
+  </a>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
