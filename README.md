@@ -5,10 +5,9 @@
 <h3 align="center">Hey! I'm Rafael</h3>
 
 <p align="center">
-  🎓 <b>Cybersecurity Student at ISCTE - Sintra</b>
+  <b>Cybersecurity Student at Iscte</b>
   <br>
-  My focus is on the intersection of <b>Network Infrastructure</b> and <b>Artificial Intelligence</b>.
-  Currently exploring how to secure systems while teaching machines to think.
+  My focus is on the intersection of Network Infrastructure and Artificial Intelligence. Currently exploring how to secure systems while teaching machines to think.
 </p>
 
 <div align="center">
