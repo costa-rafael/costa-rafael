@@ -8,6 +8,8 @@
   <span style="font-size: 1em; font-weight: normal;">Welcome to my page :)</span>
 </div>
 
+<br>
+
 <p align="center">
   <b>Cybersecurity Student at Iscte</b>
   <br>
