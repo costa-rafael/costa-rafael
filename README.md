@@ -5,7 +5,7 @@
 <h3 align="center">Hi, I'm Rafael!</h3>
 
 <p align="center">
-  <b>Cybersecurity Student at Iscte</b>
+  <b>I'm Cybersecurity Student at Iscte, welcome to my page!</b>
   <br>
   My focus is on the intersection of <b>Network Infrastructure</b> and <b>Artificial Intelligence</b>.
   Currently exploring how to secure systems while teaching machines to think.
