@@ -1,12 +1,9 @@
-<div align="center" style="margin-bottom: 10px;">
-  <span style="font-size: 5em; font-weight: bold;">Hi, I'm Rafael! Welcome to my page :) </span>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<h3 align="center">Analyzing packets, training models & breaking things.</h3>
+<h3 align="center">Hi, I'm Rafael! Welcome to my page :).</h3>
 
 <p align="center">
   🎓 <b>Cybersecurity Student at ISCTE - Sintra</b>
