@@ -23,28 +23,34 @@ I am interested in applying what I learn to real systems, especially in building
 <h3 align="left">Technical Arsenal</h3>
 
 <p align="left">
-<b>Core:</b><br>
+<b>Core & Data:</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
-<p align="left">
-<b>AI & Data:</b><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 
 <p align="left">
-<b>Web & IoT:</b><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+<b>Cloudflare & Edge Architecture:</b><br>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_R2_(Object_Storage)-F38020?style=flat&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_D1_(SQLite)-003B57?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Serverless_Architecture-FD5750?style=flat&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/Decoupled_Systems-000000?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge_API_Design-0EA5E9?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
+<p align="left">
+<b>Web & Security:</b><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Zero_Trust_Auth-F38020?style=flat&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/CORS_&_API_Security-5C2D91?style=flat&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/PWA_Mobile_UX-5A0FC8?style=flat&logo=pwa&logoColor=white" />
+</p>
 
 </td>
 
